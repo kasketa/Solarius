@@ -3,7 +3,7 @@ package com.system.celestialnursery;
 import com.system.systemlogic.Graviton;
 
 public class Earth extends Planet implements Graviton {
-	public static double mass = 1.000;
+	public static double mass = 1.00540;
 	public static String name = "Earth";
 	public static final int revolutionPeriod = 365;
 	public static final int rotationPeriod = 24;
